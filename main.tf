@@ -21,4 +21,3 @@ resource "aws_instance" "blog" {
   tags = {
     Name = "HelloWorld"
   }
-}
